@@ -1,0 +1,37 @@
+Student: Sultanseitova Nuriya
+ID: 230103360
+=== Python ===
+Python 3.14.3
+Architecture: arm64
+Pointer size: 8 bytes
+=== macOS ===
+ProductName:		macOS
+ProductVersion:		26.6.2
+BuildVersion:		25G83
+=== CPU and memory ===
+hw.model: Mac16,12
+machdep.cpu.brand_string: Apple M4
+hw.physicalcpu: 10
+hw.logicalcpu: 10
+hw.memsize: 17179869184
+hw.cachelinesize: 128
+=== Core topology and cache ===
+hw.perflevel0.physicalcpu: 4
+hw.perflevel0.logicalcpu: 4
+hw.perflevel0.l1icachesize: 196608
+hw.perflevel0.l1dcachesize: 131072
+hw.perflevel0.l2cachesize: 16777216
+hw.perflevel0.cpusperl2: 4
+hw.perflevel0.name: Performance
+hw.perflevel1.physicalcpu: 6
+hw.perflevel1.logicalcpu: 6
+hw.perflevel1.l1icachesize: 131072
+hw.perflevel1.l1dcachesize: 65536
+hw.perflevel1.l2cachesize: 4194304
+hw.perflevel1.cpusperl2: 6
+hw.perflevel1.name: Efficiency
+hw.l1icachesize: 131072
+hw.l1dcachesize: 65536
+hw.l2cachesize: 4194304
+=== NumPy ===
+NumPy: 2.4.4
